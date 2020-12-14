@@ -1,0 +1,29 @@
+.navbar-container {
+    padding: 0;
+}
+.navbar-nav {
+    margin: 0 auto;
+    text-align: center;
+    border-top: 1px rgb(16,16,16) solid;
+    box-shadow: rgba(255,255,255,0.1) 0 1px 0 0 inset;
+}
+.navbar {
+    margin: 0 auto;
+    color: #c3c8d6;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.nav-link {
+    padding: 18px 25px!important;
+}
+.active.nav-link {
+    background-color: rgb(27,31,41);
+}
+.navbar-brand {
+    padding: 20px 25px!important;
+}
+.navbar-toggler {
+    margin-right: 25px;
+}

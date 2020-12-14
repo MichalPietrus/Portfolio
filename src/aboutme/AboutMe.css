@@ -1,0 +1,33 @@
+.about-me-header h1 {
+    text-align: center;
+    padding: 60px 0;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+}
+.about-me-container {
+    background-color: #F2F6F8;
+    padding-bottom: 115px;
+}
+.cv-photo {
+    border-radius: 50%;
+    height: auto;
+    max-width: 100%;
+}
+.about-me-container p {
+    font-size:20px;
+    font-family: 'Open Sans', sans-serif;
+    line-height:38px;
+    text-align: center;
+    vertical-align: middle;
+}
+.text-column {
+    align-self: center;
+}
+@media (max-width: 767px) {
+    .about-me-container p {
+        font-size:18px;
+    }
+    .text-column {
+        padding-bottom: 25px;
+    }
+}

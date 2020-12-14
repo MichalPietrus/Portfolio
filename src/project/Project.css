@@ -1,0 +1,61 @@
+.project-mockup {
+    height: auto;
+    max-width: 100%;
+}
+.project-container {
+    padding: 100px 0;
+}
+.project-header {
+    text-align: center;
+    padding-bottom: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+.project-description {
+    padding: 20px 0;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+.technologies-list {
+    padding: 0
+}
+.technologies-list li {
+    display: inline-block;
+    background: #1fbfff;
+    font-weight: 600;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 3px;
+    margin-top: 7px;
+    margin-left: 4px;
+}
+.technologies-list li:hover {
+    color: #102216;
+    text-decoration: none;
+}
+@media(max-width: 1199px) {
+    .project-header {
+        padding-top: 25px;
+    }
+}
+.text-column div a i {
+    color: rgb(33,37,41);
+    font-size: 42px;
+}
+.btn-project {
+    max-height: 50px;
+    border: 2px solid #1fbfff;
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: #1fbfff;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.btn-project:hover {
+    background: #1fbfff;
+    border: 2px solid #1fbfff;
+    color: #fff;
+    text-decoration: none;
+}
+.text-column .row {
+    margin-top: 25px;
+}
