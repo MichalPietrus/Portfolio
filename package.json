@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
-    "react": "^17.0.1"
+    "react": "^17.0.1",
+    "react-reveal": "^1.2.2"
   }
 }

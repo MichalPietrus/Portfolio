@@ -8,11 +8,12 @@
 .project-header {
     text-align: center;
     padding-bottom: 25px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .project-description {
     padding: 20px 0;
     font-size: 18px;
+    white-space: pre-line;
     font-family: 'Open Sans', sans-serif;
 }
 .technologies-list {

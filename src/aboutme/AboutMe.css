@@ -5,7 +5,7 @@
     font-family: 'Roboto', sans-serif;
 }
 .about-me-container {
-    background-color: #F2F6F8;
+    background-color: #ffffff;
     padding-bottom: 115px;
 }
 .cv-photo {
@@ -16,8 +16,7 @@
 .about-me-container p {
     font-size:20px;
     font-family: 'Open Sans', sans-serif;
-    line-height:38px;
-    text-align: center;
+    line-height:30px;
     vertical-align: middle;
 }
 .text-column {
@@ -28,6 +27,6 @@
         font-size:18px;
     }
     .text-column {
-        padding-bottom: 25px;
+        padding-top: 40px;
     }
 }
