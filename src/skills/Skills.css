@@ -5,6 +5,7 @@
 .skills-container h1 {
     font-size: 48px;
     font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 .skills-wrapper {
     justify-content: center;

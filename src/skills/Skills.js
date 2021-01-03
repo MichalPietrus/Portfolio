@@ -18,8 +18,8 @@ export default function Skills() {
     return (
         <>
             <div id="skills" className="skills-container row no-gutters justify-content-center">
-                <h1>Skills</h1>
-                <Slide right>
+                <h1 className="col-12">Skills</h1>
+                <Slide className="col-12" right>
                     <div className="skills-wrapper">
                         <img className="skills-icon" src={CssIcon} alt=""/>
                         <img className="skills-icon" src={HtmlIcon} alt=""/>
